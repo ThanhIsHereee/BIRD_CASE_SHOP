@@ -5,7 +5,7 @@ This is a "<i>Mini Capstone Project</i>" of FPT University Students in semester 
 There are five members in our Project <br>
 | Name                    	|     UniID    	|     Role     	| Position                   	| GitUser 	|
 |-------------------------	|:------------:	|:------------:	|----------------------------	|----------------	|
-| *Trần Đình Thiên Tân* 	| *SE171757* 	| *Backend*  	| *Team Leader, Backend Leader* 	| *EmTanIT*    	|
+| *Nguyễn Quang Thanh* 	| *SE173534* 	| *Backend*  	| *Backend Leader* 	| *ThanhIsHereee*    	|
 | *Lại Nguyễn Minh Quân*    	| *SE170067* 	| *Backend*  	| *Member*                 	| *jeffySE29*  	|
 | *Đỗ Dương Đăng Khoa*  	| *SE170285* 	| *Backend*  	| *Member*                 	| *KhoaHocMai113* 	|
 | *Lê Bảo Khang*        	| *SE171164* 	| *Frontend* 	| *Frontend Leader*        	| *kle1603*    	|
